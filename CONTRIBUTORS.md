@@ -246,6 +246,7 @@ Instructions :
 | 215 | **William Cook** | United States | Software Engineer | [Github](https://github.com/bcookdev) |
 | 216 | **Leoberto J. Preuss Jr.** | Brazil | Technical Writer | [GitHub](https://github.com/leoberto)|
 | 216 | **Rakesh Kumar** | India | Software Developer | [GitHub](https://github.com/rkamn)|
+| 218 | **Katie McCue** | United States | Teacher | [GitHub](https://github.com/katiemccue)|
 
 ---
 
